@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container text-center mt-5">
+    <!-- Hero Section -->
+    <div class="jumbotron bg-light p-4 rounded shadow-sm">
+        <h1 class="display-5 fw-bold text-primary"> 🌦️ Welcome my to API Weather App</h1>
+        <p class="lead text-muted">Get real-time weather updates and 6-day forecasts for any location worldwide.</p>
+        
+    </div>
+
+    <!-- Information Cards -->
+    <div class="row mt-5">
+        <!-- Current Weather Card -->
+        <div class="col-md-6 d-flex">
+            <div class="card bg-light shadow-sm border-0 h-100 d-flex flex-column">
+                <div class="card-body flex-grow-1">
+                    <h5 class="card-title text-primary"><i class="fas fa-thermometer-half"></i> ☀ Current Weather</h5>
+                    <p class="card-text">
+                        View the latest weather conditions including temperature, humidity, and wind speed.
+                    </p>
+                </div>
+                <div class="card-footer bg-light border-0">
+                    <a asp-action="Index" asp-controller="CurrentWeather" class="btn btn-success w-100">
+                        View Now
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- 5-Day Forecast Card -->
+        <div class="col-md-6 d-flex">
+            <div class="card bg-light shadow-sm border-0 h-100 d-flex flex-column">
+                <div class="card-body flex-grow-1">
+                    <h5 class="card-title text-primary"><i class="fas fa-calendar-week"></i> 📅 6-Day Forecast</h5>
+                    <p class="card-text">
+                        Plan ahead with a detailed weather forecast for the next 6 days.
+                    </p>
+                </div>
+                <div class="card-footer bg-light border-0">
+                    <a asp-action="Index" asp-controller="ForecastWeather" class="btn btn-primary w-100">
+                        View Forecast
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

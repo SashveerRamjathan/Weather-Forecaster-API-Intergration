@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|c:\\users\\sujesh lakhan\\desktop\\varsity college s1 (2025)\\programming 3a (prog7311)\\ice tasks\\ice task 8 - submitted\\st10361554_prog7311_ice_task_8\\apiweatherapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|solutionrelative:apiweatherapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|c:\\users\\sujesh lakhan\\desktop\\varsity college s1 (2025)\\programming 3a (prog7311)\\ice tasks\\ice task 8 - submitted\\st10361554_prog7311_ice_task_8\\apiweatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|solutionrelative:apiweatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|c:\\users\\sujesh lakhan\\desktop\\varsity college s1 (2025)\\programming 3a (prog7311)\\ice tasks\\ice task 8 - submitted\\st10361554_prog7311_ice_task_8\\apiweatherapp\\controllers\\forecastweathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|solutionrelative:apiweatherapp\\controllers\\forecastweathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|c:\\users\\sujesh lakhan\\desktop\\varsity college s1 (2025)\\programming 3a (prog7311)\\ice tasks\\ice task 8 - submitted\\st10361554_prog7311_ice_task_8\\apiweatherapp\\controllers\\currentweathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|solutionrelative:apiweatherapp\\controllers\\currentweathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|c:\\users\\sujesh lakhan\\desktop\\varsity college s1 (2025)\\programming 3a (prog7311)\\ice tasks\\ice task 8 - submitted\\st10361554_prog7311_ice_task_8\\apiweatherapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|solutionrelative:apiweatherapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|c:\\users\\sujesh lakhan\\desktop\\varsity college s1 (2025)\\programming 3a (prog7311)\\ice tasks\\ice task 8 - submitted\\st10361554_prog7311_ice_task_8\\apiweatherapp\\views\\currentweather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|solutionrelative:apiweatherapp\\views\\currentweather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|c:\\users\\sujesh lakhan\\desktop\\varsity college s1 (2025)\\programming 3a (prog7311)\\ice tasks\\ice task 8 - submitted\\st10361554_prog7311_ice_task_8\\apiweatherapp\\views\\forecastweather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|solutionrelative:apiweatherapp\\views\\forecastweather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|c:\\users\\sujesh lakhan\\desktop\\varsity college s1 (2025)\\programming 3a (prog7311)\\ice tasks\\ice task 8 - submitted\\st10361554_prog7311_ice_task_8\\apiweatherapp\\models\\forecastweatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|solutionrelative:apiweatherapp\\models\\forecastweatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|c:\\users\\sujesh lakhan\\desktop\\varsity college s1 (2025)\\programming 3a (prog7311)\\ice tasks\\ice task 8 - submitted\\st10361554_prog7311_ice_task_8\\apiweatherapp\\models\\forecastday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|solutionrelative:apiweatherapp\\models\\forecastday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|c:\\users\\sujesh lakhan\\desktop\\varsity college s1 (2025)\\programming 3a (prog7311)\\ice tasks\\ice task 8 - submitted\\st10361554_prog7311_ice_task_8\\apiweatherapp\\models\\forecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|solutionrelative:apiweatherapp\\models\\forecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|c:\\users\\sujesh lakhan\\desktop\\varsity college s1 (2025)\\programming 3a (prog7311)\\ice tasks\\ice task 8 - submitted\\st10361554_prog7311_ice_task_8\\apiweatherapp\\models\\weathercondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|solutionrelative:apiweatherapp\\models\\weathercondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|c:\\users\\sujesh lakhan\\desktop\\varsity college s1 (2025)\\programming 3a (prog7311)\\ice tasks\\ice task 8 - submitted\\st10361554_prog7311_ice_task_8\\apiweatherapp\\models\\day.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D56371-58B9-43E0-8D85-057D2DA9742C}|APIWeatherApp\\APIWeatherApp.csproj|solutionrelative:apiweatherapp\\models\\day.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Program.cs",
+              "RelativeDocumentMoniker": "APIWeatherApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Program.cs",
+              "RelativeToolTip": "APIWeatherApp\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:35:52.683Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "APIWeatherApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "APIWeatherApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T10:36:17.192Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurrentWeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Controllers\\CurrentWeatherController.cs",
+              "RelativeDocumentMoniker": "APIWeatherApp\\Controllers\\CurrentWeatherController.cs",
+              "ToolTip": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Controllers\\CurrentWeatherController.cs",
+              "RelativeToolTip": "APIWeatherApp\\Controllers\\CurrentWeatherController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:38:22.483Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForecastWeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Controllers\\ForecastWeatherController.cs",
+              "RelativeDocumentMoniker": "APIWeatherApp\\Controllers\\ForecastWeatherController.cs",
+              "ToolTip": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Controllers\\ForecastWeatherController.cs",
+              "RelativeToolTip": "APIWeatherApp\\Controllers\\ForecastWeatherController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:39:29.869Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "APIWeatherApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "APIWeatherApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T12:27:58.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Views\\ForecastWeather\\Index.cshtml",
+              "RelativeDocumentMoniker": "APIWeatherApp\\Views\\ForecastWeather\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Views\\ForecastWeather\\Index.cshtml",
+              "RelativeToolTip": "APIWeatherApp\\Views\\ForecastWeather\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T12:00:55.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Forecast.cs",
+              "DocumentMoniker": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Models\\Forecast.cs",
+              "RelativeDocumentMoniker": "APIWeatherApp\\Models\\Forecast.cs",
+              "ToolTip": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Models\\Forecast.cs",
+              "RelativeToolTip": "APIWeatherApp\\Models\\Forecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:50:52.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ForecastDay.cs",
+              "DocumentMoniker": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Models\\ForecastDay.cs",
+              "RelativeDocumentMoniker": "APIWeatherApp\\Models\\ForecastDay.cs",
+              "ToolTip": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Models\\ForecastDay.cs",
+              "RelativeToolTip": "APIWeatherApp\\Models\\ForecastDay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:50:06.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Day.cs",
+              "DocumentMoniker": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Models\\Day.cs",
+              "RelativeDocumentMoniker": "APIWeatherApp\\Models\\Day.cs",
+              "ToolTip": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Models\\Day.cs",
+              "RelativeToolTip": "APIWeatherApp\\Models\\Day.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:44:43.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherCondition.cs",
+              "DocumentMoniker": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Models\\WeatherCondition.cs",
+              "RelativeDocumentMoniker": "APIWeatherApp\\Models\\WeatherCondition.cs",
+              "ToolTip": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Models\\WeatherCondition.cs",
+              "RelativeToolTip": "APIWeatherApp\\Models\\WeatherCondition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:44:23.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForecastWeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Models\\ForecastWeatherData.cs",
+              "RelativeDocumentMoniker": "APIWeatherApp\\Models\\ForecastWeatherData.cs",
+              "ToolTip": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Models\\ForecastWeatherData.cs",
+              "RelativeToolTip": "APIWeatherApp\\Models\\ForecastWeatherData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:43:09.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Views\\CurrentWeather\\Index.cshtml",
+              "RelativeDocumentMoniker": "APIWeatherApp\\Views\\CurrentWeather\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sujesh Lakhan\\Desktop\\Varsity College S1 (2025)\\Programming 3A (PROG7311)\\ICE Tasks\\ICE Task 8 - Submitted\\ST10361554_PROG7311_ICE_Task_8\\APIWeatherApp\\Views\\CurrentWeather\\Index.cshtml",
+              "RelativeToolTip": "APIWeatherApp\\Views\\CurrentWeather\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T10:38:53.841Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

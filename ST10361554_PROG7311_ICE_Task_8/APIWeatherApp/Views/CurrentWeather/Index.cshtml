@@ -1,0 +1,52 @@
+﻿@model APIWeatherApp.Models.WeatherData
+
+@{
+    ViewData["Title"] = "Current Weather";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center text-primary">Current Weather Forecast</h2>
+    <br />
+    <!-- Search Form -->
+    <form asp-action="Index" method="get" class="mb-4">
+        <div class="input-group">
+            <input type="text" name="location" class="form-control" placeholder="Enter a city name..." required>
+            <button type="submit" class="btn btn-primary">Search</button>
+        </div>
+    </form>
+
+    @if (Model != null)
+    {
+        DateTime dateLastUpdated = Convert.ToDateTime(Model.CurrentWeather.LastUpdated);
+
+        <div class="card shadow-lg p-4">
+            <h3 class="text-center">@Model.Location.Name, @Model.Location.Country</h3>
+            <h5 class="text-center text-muted">@dateLastUpdated.ToString("f")</h5>
+
+            <div class="row text-center">
+                <div class="col-md-6">
+                    <img src="@Model.CurrentWeather.Condition.Icon" alt="Weather Icon" class="img-fluid">
+                    <h4>@Model.CurrentWeather.Condition.Description</h4>
+                    <h3 class="display-4">@Model.CurrentWeather.TemperatureC°C</h3>
+                    <p>Feels like: @Model.CurrentWeather.FeelsLikeC°C</p>
+                </div>
+                <div class="col-md-6">
+                    <ul class="list-group">
+                        <li class="list-group-item"><strong>Wind:</strong> @Model.CurrentWeather.WindSpeedKph km/h (@Model.CurrentWeather.WindDirection)</li>
+                        <li class="list-group-item"><strong>Humidity:</strong> @Model.CurrentWeather.Humidity%</li>
+                        <li class="list-group-item"><strong>Cloud Cover:</strong> @Model.CurrentWeather.CloudCover%</li>
+                        <li class="list-group-item"><strong>Pressure:</strong> @Model.CurrentWeather.PressureMb mb</li>
+                        <li class="list-group-item"><strong>UV Index:</strong> @Model.CurrentWeather.UVIndex</li>
+                        <li class="list-group-item"><strong>Dew Point:</strong> @Model.CurrentWeather.DewPointC°C</li>
+                        <li class="list-group-item"><strong>Visibilty:</strong> @Model.CurrentWeather.VisibilityKm km</li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-warning text-center">No weather data available.</div>
+    }
+</div>
